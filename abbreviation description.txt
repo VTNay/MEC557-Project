@@ -1,0 +1,19 @@
+skt: Skin Temperature - The temperature of the land or sea surface.
+
+u10: 10-meter U Wind Component - The east-west (zonal) component of wind speed measured at 10 meters above the ground.
+
+v10: 10-meter V Wind Component - The north-south (meridional) component of wind speed measured at 10 meters above the ground.
+
+t2m: 2-meter Temperature - The air temperature measured at 2 meters above the ground.
+
+d2m: 2-meter Dewpoint Temperature - The dewpoint temperature measured at 2 meters above the ground, which indicates moisture.
+
+tcc: Total Cloud Cover - The fraction of the sky covered by clouds.
+
+sp: Surface Pressure - The atmospheric pressure at the earth's surface.
+
+tp: Total Precipitation - The accumulated precipitation (rain, snow, etc.) over a specified period.
+
+ssrd: Surface Solar Radiation Downwards - The amount of solar radiation reaching the ground.
+
+blh: Boundary Layer Height -  The height of the lowest part of the atmosphere where the earth's surface significantly influences temperature, moisture, and wind.
