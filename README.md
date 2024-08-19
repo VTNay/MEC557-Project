@@ -1,1 +1,1 @@
-# Please read the ipynb file to see the work has been done
+# Please read the MEC557_Weather.ipynb to see our work which has been done
